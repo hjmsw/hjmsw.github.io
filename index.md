@@ -4,13 +4,9 @@ title: About
 permalink: /
 ---
 
-I am a software engineer, computer science graduate and amateur photographer from the UK, currently based in Scotland.
+I am a senior software engineer, computer science graduate and amateur photographer from the UK, currently based in Scotland.
 
-I work remotely for [Memiah Ltd](http://www.memiah.co.uk/).
-
-I am available for contract work and specialise in web development in PHP and Node.js.
-
-Outside of work I have a keen interest in photography. I mostly post on [Flickr](https://www.flickr.com/photos/j1mb093) and [Instagram](https://www.instagram.com/jhardingphoto/).
+Currently working for [Xergy Group](https://xergy.com/) on Proteus, sales and project delivery software built for engineering consultancies and project owners.
 
 GitHub profile:
 
